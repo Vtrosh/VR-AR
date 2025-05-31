@@ -1,0 +1,98 @@
+[33mcommit b8a4aaff423cf3f1dbe22658b0a596dbec8ac004[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Vtrosh <artvtrsh@gmail.com>
+Date:   Sat May 31 11:11:50 2025 +0300
+
+    электронные компоненты
+
+[33mcommit be2c400c9cde8b654238f1bfc4fe2f81ab702ac9[m
+Author: Vtrosh <artvtrsh@gmail.com>
+Date:   Sat May 31 11:10:44 2025 +0300
+
+    винты и поддержки
+
+[33mcommit 6d8c2a89e001edb5fe3163f7770a638985fb1d61[m
+Author: Vtrosh <artvtrsh@gmail.com>
+Date:   Sat May 31 11:09:15 2025 +0300
+
+    принтер блендер
+
+[33mcommit d8a25232447cd27f90f3c86701ecd477b438e44a[m
+Author: Vtrosh <artvtrsh@gmail.com>
+Date:   Sat May 31 11:03:53 2025 +0300
+
+    сборка блендер
+
+[33mcommit 96d6d9e31127d9bccd6ffc85e5ef00e725489451[m[33m ([m[1;31morigin/SlavaBranch[m[33m)[m
+Author: bazikovV <bazikov.slava.03@gmail.com>
+Date:   Fri Dec 27 21:43:43 2024 +0300
+
+    Добавить задание с платформой, с пульсирующим объектом
+
+[33mcommit 937345244daacf233c7518209be839d22dead3c7[m
+Author: varvarstr <varvarstr@gmail.com>
+Date:   Tue Nov 12 05:15:41 2024 +0300
+
+    изменен файл манипулятор (окончательный вариант)
+
+[33mcommit b70ea6ab2b9a098237c01f2640d9ab885a53c96c[m
+Author: varvarstr <varvarstr@gmail.com>
+Date:   Sun Nov 10 01:15:08 2024 +0300
+
+    добавлен итоговый вариант манипулятора
+
+[33mcommit 779351cb9d8f04fd6bc5812005cbe5b373bc6d06[m
+Author: varvarstr <varvarstr@gmail.com>
+Date:   Sun Nov 10 00:15:28 2024 +0300
+
+    добавлена модель манипулятора
+
+[33mcommit 50cb0851c07be9aab35985b80752f3a935a5ce3d[m
+Author: bazikovV <bazikov.slava.03@gmail.com>
+Date:   Mon Oct 28 02:01:54 2024 +0300
+
+    Добавлено дз Вариант 5
+
+[33mcommit 708c14b5a0958f1e7abcc2575771d405d89e73a3[m
+Author: bazikovV <bazikov.slava.03@gmail.com>
+Date:   Mon Oct 28 01:25:53 2024 +0300
+
+    Добавлено дз Вариант 5
+
+[33mcommit 59775239143a4c31d9a385193fcfe1d562a271df[m
+Author: Vtrosh <artvtrsh@gmail.com>
+Date:   Sun Oct 27 21:17:16 2024 +0300
+
+    добавлено дз Вариант 8 за Бояринева
+
+[33mcommit e0345b678ea32da46b95cfb9ad46730f223cd924[m
+Author: Vtrosh <artvtrsh@gmail.com>
+Date:   Sun Oct 27 19:22:58 2024 +0300
+
+    добавлено дз Вариант 9
+
+[33mcommit c6486ffa7cb7d0308ebd61ab2918a4432c1df72e[m
+Merge: 0b49ab1 4dc0f9d
+Author: Vyacheslav <134547100+TheLostSight@users.noreply.github.com>
+Date:   Sat Oct 26 20:43:47 2024 +0300
+
+    Merge pull request #1 from Vtrosh/homework/pulsating-object
+    
+    Добавлена пульсирующая сфера
+
+[33mcommit 4dc0f9d6d2a645025525836853f2355c0b4ff912[m[33m ([m[1;31morigin/homework/pulsating-object[m[33m)[m
+Author: bazikovV <bazikov.slava.03@gmail.com>
+Date:   Wed Oct 16 19:10:24 2024 +0300
+
+    Добавлена пульсирующая сфера
+
+[33mcommit 0b49ab1d5a11a2c6335789eaae4d3aac4e575a98[m[33m ([m[1;32mremotes/origin/homework/pulsating-object[m[33m)[m
+Author: Vtrosh <artvtrsh@gmail.com>
+Date:   Sun Sep 29 13:54:32 2024 +0300
+
+    добавлено задание с особняком
+
+[33mcommit ea101aae85287fd94109f1366bcdbf82b64692cd[m
+Author: VRIPHTIS <139910894+VRIPHTIS@users.noreply.github.com>
+Date:   Sat Sep 28 16:12:29 2024 +0300
+
+    Initial commit
